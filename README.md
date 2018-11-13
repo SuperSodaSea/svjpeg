@@ -1,4 +1,4 @@
-# svpng
+# svjpeg
 
 A simple C++ function for saving JPEG images.
 
